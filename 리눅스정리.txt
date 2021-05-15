@@ -300,7 +300,13 @@ PATH=$PATH:/usr/local/douzone2021/git/bin
 # yum install -y cmake.x86_64
 # yum install -y libaio
 iconv 소스 컴파일 설치를 한다.
-
+# wget https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.16.tar.gz
+# tar xvfz libiconv-1.16.tar.gz 
+# cd libiconv-1.16
+# ./configure --prefix=/usr/local
+# make
+# make install
+ 
 2. 소스 다운로드
 # wget https://downloads.mariadb.org/interstitial/mariadb-10.1.48/source/mariadb-10.1.48.tar.gz 
 
