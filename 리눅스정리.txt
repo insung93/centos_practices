@@ -306,7 +306,7 @@ iconv 소스 컴파일 설치를 한다.
 # ./configure --prefix=/usr/local
 # make
 # make install
- 
+  
 2. 소스 다운로드
 # wget https://downloads.mariadb.org/interstitial/mariadb-10.1.48/source/mariadb-10.1.48.tar.gz 
 
